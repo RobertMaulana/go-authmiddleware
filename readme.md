@@ -4,6 +4,11 @@ Authmiddleware lib can be use to eliminate repetitive http handler validation.
 ### HLA
 ![authmiddleware](reusable-module-hla.png)
 
+### How to install
+```
+go get github.com/RobertMaulana/go-authmiddleware
+```
+
 ### Example implementation
 
 #### a. Set auth header  
